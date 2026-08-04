@@ -23,6 +23,7 @@ It allows two sources: you can add your local sounds or play sounds from [MyInst
   * For Linux: `soundboard-0.0.x.AppImage`
 
 ### To redirect the audio to a communication app (like Discord)
+# What does a communication app do?
 You need to install & setup [Voicemeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm) and [Virtual Audio Cable](https://vb-audio.com/Cable/index.htm) <br>
 I personally followed two excellent videos from a youtuber to setup everything up, it is in French but you can watch it with subtitles or follow another video.
 * Configure Voicemeeter Banana (you can skip parts for "external audio card" and "streaming") : https://www.youtube.com/watch?v=5jG3OGJ68cs 
